@@ -1,0 +1,36 @@
+Name: Shubham Mahi
+Percent in homework 1 : 
+90
+Percent in homework 2 : 
+80
+Percent in homework 3 : 
+95
+Percent in homework 4 : 
+87
+Percent in homework 5 : 
+89
+Percent in homework 6 : 
+80
+Percent in homework 7 : 
+85
+Percent in homework 8 : 
+87
+Percent in quiz 1 : 
+89
+Percent in quiz 2 : 
+90
+Percent in quiz 3 : 
+75
+Percent in quiz 4 : 
+97
+Percent in quiz 5 : 
+80
+Mid term percentage : 
+90
+Final term percentage : 
+95
+Project percentage : 
+90
+ 
+Final Percentage is: 90.80375000000001
+Letter Grade: A
